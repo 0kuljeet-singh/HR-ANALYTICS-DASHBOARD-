@@ -107,7 +107,7 @@ After cleaning:
 - `HR_Analytics_Dashboard.pbix` – Power BI dashboard
 - `README.md` – This report
 - `Dataset/` – Original and cleaned dataset files
-- `HR_Analytics_Report.pdf` *(optional)*
+
 
 ---
 
